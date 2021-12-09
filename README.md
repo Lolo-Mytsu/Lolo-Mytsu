@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Loïs also known as Mytsu. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">I work to improve day by day !</h3>
+
+
+##  About Me
+
+- 💻 I'm a **2nd year** student at **Epitech Lyon**.
+
+- 💎 I'm currently working on the web and mainly front (Vuetify/Nuxt)
+
+- 🔒 I'm highly interested in mobile development and cybersecurity 
 
 <!--
 **Lolo-Mytsu/Lolo-Mytsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
