@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 I'm currently working on the web and mainly front (Vuetify/Nuxt)
 
-- 🔒 I'm highly interested in mobile development and cybersecurity 
+- 🔒 I'm highly interested in mobile **development** and **cybersecurity**. 
 
 <!--
 **Lolo-Mytsu/Lolo-Mytsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
