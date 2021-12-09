@@ -4,7 +4,7 @@
 
 ##  About Me
 
-- 💻 I'm a **2nd year** student at [@Epitech](https://www.epitech.eu/).
+- 💻 I'm a **2nd year** student at **[@Epitech](https://www.epitech.eu/)**.
 
 - 👨🏻‍💻 I'm currently working on the web and mainly front (Vuetify/Nuxt)
 
