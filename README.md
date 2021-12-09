@@ -10,6 +10,9 @@
 
 - 🔒 I'm highly interested in mobile **development** and **cybersecurity**. 
 
+[![Lolo-Mytsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolo-mytsu)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Lolo-Mytsu/Lolo-Mytsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
