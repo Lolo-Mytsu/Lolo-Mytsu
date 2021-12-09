@@ -6,7 +6,7 @@
 
 - 💻 I'm a **2nd year** student at **Epitech Lyon**.
 
-- 💎 I'm currently working on the web and mainly front (Vuetify/Nuxt)
+- 👨🏻‍💻 I'm currently working on the web and mainly front (Vuetify/Nuxt)
 
 - 🔒 I'm highly interested in mobile development and cybersecurity 
 
