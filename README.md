@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 I'm currently working on the web and mainly front (Nuxt/Next)
 
-- 🔒 I'm highly interested in **Web3**, **cybersecurity** and **AI**. 
+- 🔒 I'm highly interested in **Web3**, **Cybersecurity** and **AI**. 
 
 <!--
 **Lolo-Mytsu/Lolo-Mytsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
