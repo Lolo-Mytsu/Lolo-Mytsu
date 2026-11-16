@@ -4,8 +4,6 @@
 
 ##  About Me
 
-- 💻 I'm a **4th year** student at **[@Epitech](https://www.epitech.eu/) Lyon**.
-
 - 👨🏻‍💻 I'm currently working on the web and mainly front (Nuxt/Next)
 
 - 🔒 I'm highly interested in **Web3**, **Cybersecurity** and **AI**. 
